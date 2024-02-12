@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    background-color: antiquewhite;
+}
+p {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+* {
+    background-color: wheat;
+    text-align: center;
+}
+ul li {
+    text-align: center;
+}
